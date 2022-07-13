@@ -1,0 +1,5 @@
+NAME = 'staff_01'
+USER = 'postgres'
+HOST = 'localhost'
+PORT = '5432'
+PASSWORD = 's486efs4S'
